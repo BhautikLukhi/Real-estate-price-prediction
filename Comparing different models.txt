@@ -15,4 +15,4 @@ Model Outputs
     Mean:  3.494650261111624
     Standard deviation:  0.762041223886678
     
-Out of all these best model is Random Forest Regression, so we use that in out prediction model.
+Out of all these best results are obtained Random Forest Regression, so we use that in out prediction model.
